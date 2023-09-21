@@ -21,8 +21,7 @@ https://github.com/zmohamed1905/label_club_web_app/blob/main/README_images/Scree
 
 ### About Us Page
 
-![](../../Desktop/Screenshot 2023-09-21 202746.png)
-
+![Screenshot 2023-09-21 193205](https://github.com/zmohamed1905/label_club_web_app/assets/115154775/5514f86a-75d6-4691-95b6-6f7b396168b3)
 
 
 
