@@ -5,22 +5,22 @@ This web application uses Python, Flask, HTML and CSS. The goal of this web app 
 
 ### Home Page
 
-![](README_images/Screenshot 2023-09-21 193111.png)
+![](../../Desktop/Screenshot 2023-09-21 202728.png)
 
 
 ### Gallery Page
 
-![](./static//Screenshot 2023-09-21 193205.png)
+![](../../Desktop/Screenshot 2023-09-21 202738.png)
 
 ### Enquire Page
 
+![](../../Desktop/Screenshot 2023-09-21 191943.png)
 
-![](README_images/Screenshot 2023-09-21 191943.png)
 
 
 ### About Us Page
 
-![](README_images/Screenshot 2023-09-21 192010.png)
+![](../../Desktop/Screenshot 2023-09-21 202746.png)
 
 
 
