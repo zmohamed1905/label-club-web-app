@@ -16,8 +16,7 @@ This web application uses Python, Flask, HTML and CSS. The goal of this web app 
 
 ### Enquire Page
 
-https://github.com/zmohamed1905/label_club_web_app/blob/main/README_images/Screenshot%202023-09-21%20191943.png?raw=true
-
+![Screenshot 2023-09-21 191943](https://github.com/zmohamed1905/label_club_web_app/assets/115154775/8f3a3971-309a-4b6c-a679-9dc79af5b296)
 
 
 ### About Us Page
